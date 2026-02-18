@@ -1,0 +1,32 @@
+{
+  "name": "FÜWA",
+  "symbol": "517",
+  "description": "The official memecoin of the city Fürstenwalde/Spree",
+  "image": "https://yellow-managerial-albatross-117.mypinata.cloud/ipfs/bafybeigqrvrjwnkzf4wcgrwwd5huzo3gwendoriwfeppmj7u36muoj27yy",
+  "external_url": "https://www.fuerstenwalde-spree.de/#gsc.tab=0",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Fun"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.fuerstenwalde-spree.de/#gsc.tab=0",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7v8TjCEV3n4n6wEQDESaKyyAbCM5c1uijiQNdoCWddbg",
+        "share": 100
+      }
+    ]
+  }
+}
